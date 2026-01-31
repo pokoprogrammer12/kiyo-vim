@@ -15,7 +15,7 @@ return{
                 styles = {
                     bold = true,
                     italic = false,
-                    transparency = true,
+                    transparency = true, 
                 },
                 highlight_groups = {
                     ColorColumn = { bg = "#1C1C21" },
